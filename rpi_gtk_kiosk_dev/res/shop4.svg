@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shop4.svg"
+   inkscape:export-filename="/home/user/Programming/Glade/rpi_gtk_kiosk/res/mall.svg.png"
+   inkscape:export-xdpi="89.775558"
+   inkscape:export-ydpi="89.775558">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="335.74643"
+     inkscape:cy="828.91282"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4142"
+       dotted="true"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3347"
+       width="560"
+       height="339.99997"
+       x="70"
+       y="62.362225" />
+    <g
+       transform="translate(74.218749,67.768475)"
+       id="g2776">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7.7954843,97.974423 c 2.4954297,3.839127 28.8570197,15.120387 36.5725597,12.779637 2.91664,-2.91666 2.64735,-16.270757 4.37496,-19.687297 4.22302,13.283587 -4.83757,85.654037 -5.10412,96.978127 11.25082,7.8688 95.169096,7.02366 114.900506,2.34078 3.03126,-4.29902 -7.29154,-67.99413 -6.25585,-97.131447 1.99552,2.91939 3.13401,10.579167 3.64578,13.854017 8.1395,2.3408 37.72428,-4.37492 39.91184,-8.020727 0.0759,-7.29298 -20.22456,-63.43683 -25.32862,-66.35346 -5.73737,-4.94293 -40.46064,-16.90113 -45.39976,-22.35064 -1.13977,-0.6370401 -2.0402,-2.2488801 -2.67343,-3.1699201 -5.69894,2.62498 -33.791456,3.6527501 -39.018386,-0.43821 -1.2633,1.51244 -1.12953,2.47843 -3.02962,3.3512801 -3.6458,0 -35.82586,15.27587 -46.5381,23.91252 -7.72968,9.16908 -27.4000897,59.29111 -26.0577597,63.93534 z"
+         id="path2773"
+         sodipodi:nodetypes="ccccccccccccccc"
+         style="fill:#3c5889;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 83.03125,4.59375 C 77.453404,12.463182 62.437934,15.158085 53.167383,21.490685 44.010674,27.093993 32.007139,30.442347 27.666035,41.25098 18.78577,59.284699 10.555505,76.491767 5.78125,96.0625 c 3.1057775,9.33705 16.746822,10.85929 25.064775,14.62707 2.798036,0.73475 8.589217,2.37021 12.26939,1.51236 2.965886,-2.64356 3.820764,-7.78043 5.317621,-16.661751 4.078639,17.298021 -5.396204,65.861921 -6.617917,93.042481 7.617885,6.33163 22.638755,4.25178 33.748281,5.52344 27.84207,0.90749 59.9617,-0.49903 85.7491,-1.48556 -1.16401,-9.31579 -2.5277,-21.27549 -2.32083,-31.09115 -1.80222,-17.84133 -4.87541,-34.96146 -5.78185,-52.8776 -0.58065,-1.20296 -0.40892,-8.04502 -0.79807,-11.446634 2.46799,5.169814 4.01797,11.280064 4.05097,12.410264 5.42313,-0.95387 23.34976,-3.25646 28.27388,-4.27157 5.22691,-0.2986 10.08387,-0.94947 12.84457,-3.07241 -0.0964,-2.480088 -1.57488,-7.146523 -2.59021,-14.761959 C 188.81038,68.75959 182.7365,49.678921 173,32.4375 163.89311,24.664269 150.62612,23.017229 140.02736,17.58783 130.68899,14.948988 127.49717,10.077601 121.09821,6.2991071 109.31378,9.5723116 96.838625,10.888272 83.03125,4.59375 Z m 0.9375,3.8616071 c 12.060165,3.5379999 25.28836,3.0747849 37.5,0.6071429 8.50252,9.038539 22.06984,10.698992 32.91903,16.199537 11.08839,3.220021 20.88318,11.292468 23.47676,23.086961 6.52168,16.225542 13.1312,34.393576 16.89439,51.499216 -11.27263,4.968616 -25.04953,5.793746 -37.38393,5.276786 1.17725,-6.225881 -7.28734,-21.468262 -7.1998,-7.866246 0.0593,30.522886 7.65698,62.469496 8.19087,92.933206 -30.2444,2.21447 -63.211002,3.20644 -93.645352,1.26985 -10.506395,-0.56228 -24.956671,-2.05139 -18.642303,-16.48506 2.095379,-26.90787 6.625796,-54.24373 5.042116,-81.272218 C 45.963351,80.593055 45.278069,104.08134 43.09375,108.6875 31.124419,108.4281 17.961136,104.33032 8.0401786,97.915179 12.933752,78.116692 21.953032,57.749529 31.184833,39.599591 37.178992,29.246689 50.018678,26.187495 59.754464,20.21875 67.000744,15.432631 77.575769,13.87898 83.96875,8.4553571 Z"
+         id="path909"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="308.60001"
+       y="111.52238"
+       id="text3375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3377"
+         x="308.60001"
+         y="111.52238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#800000">Meg's Clothing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="308.02246"
+       y="176.12199"
+       id="text3379"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3381"
+         x="308.02246"
+         y="176.12199"
+         style="font-size:30px">Shop 4 - The Mall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#806600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="87.363281"
+       y="352.75284"
+       id="text3393"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3395"
+         x="87.363281"
+         y="352.75284">Smart and Casual Clothing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#806600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="276.07422"
+       y="242.75285"
+       id="text3397"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="276.07422"
+         y="242.75285">Discount Prices</tspan><tspan
+         sodipodi:role="line"
+         x="276.07422"
+         y="292.75284"
+         id="tspan3401">Huge Range</tspan></text>
+  </g>
+</svg>
